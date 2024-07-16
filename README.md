@@ -50,3 +50,5 @@ Otro tema importate por que seleccioné este conjunto de datos es porque posee u
 
 **Frequency of Purchases:** Indica con qué frecuencia el cliente realiza actividades de compra, una métrica crítica para evaluar la lealtad del cliente y su valor a lo largo del tiempo.
 
+# Link del dataset
+https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data
